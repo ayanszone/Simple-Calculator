@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+//SHABANG
 import inquirer from "inquirer";
 
 const answer = await inquirer.prompt([
